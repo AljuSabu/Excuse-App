@@ -74,7 +74,7 @@ git clone https://github.com/AljuSabu/Excuse-App
 2. Navigate to the project folder
 
 ```bash
-cd excuseApp
+cd Excuse-App
 ```
 
 3. Install dependencies
@@ -126,7 +126,7 @@ http://localhost:5173
 
 ### Live Preview
 
-[live@]()
+[live@](https://al-excuseapp.netlify.app/)
 
 ---
 
