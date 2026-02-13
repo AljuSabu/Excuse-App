@@ -24,6 +24,12 @@ This project focuses on **API integration**, **state management**, and **conditi
 
 ---
 
+## Live Preview
+
+[live@](https://al-excuseapp.netlify.app/)
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -123,10 +129,6 @@ http://localhost:5173
 
 ### Smartphone
 ![Screenshot](./public/images/SmartPhone.png)
-
-### Live Preview
-
-[live@](https://al-excuseapp.netlify.app/)
 
 ---
 
